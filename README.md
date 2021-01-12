@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi I'm Niklas 👋
 
 📫 How to reach me:
 Twitter: @NikiIncredible(Just DM me)
