@@ -10,3 +10,5 @@ Discord: ПIKLΛS#6009
 
 ⚡ Fun facts:
 - I started coding because my Minecraft server needed developers and I couldn't find any.
+
+Please ignor the bad code, the good code is private ;D
