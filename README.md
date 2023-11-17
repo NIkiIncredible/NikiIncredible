@@ -2,7 +2,7 @@
 
 📫 How to reach me:
 Twitter: @NikiIncredible(Just DM me)
-Discord: ПIKLΛS#6009
+Discord: @pukkel_niklas
 
 🔭 I’m currently working on a Minecraft Server 😬
 
