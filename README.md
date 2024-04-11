@@ -10,5 +10,3 @@ Discord: @pukkel_niklas
 
 ⚡ Fun facts:
 - I started coding because my Minecraft server needed developers and I couldn't find any.
-
-Please ignore the bad code, the good code is private ;D
