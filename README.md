@@ -6,8 +6,9 @@ Welcome to my GitHub page! I'm passionate about turning ideas into reality, part
 I'm currently focused on developing an engaging Minecraft server network at [Spookly.net](https://spookly.net). It's exciting to build a vibrant community and unique gaming experiences. For more details, you can check out our code here: [Spookly GitHub](https://github.com/Spookly-Network).
 
 ## 🚀 My Projects
-### [Evaty.net](https://evaty.net)
-Evaty is a platform designed to help people discover events in their neighborhood. Whether you're looking to attend an event or host one, Evaty provides powerful tools to manage and publish events seamlessly. Learn more about our work on the [Evaty GitHub](https://github.com/Evaty).
+### [VeloxERP]()
+Trying to build a open source erp system. WIP
+(https://github.com/VeloxERP).
 
 ### [Spookly.net](https://spookly.net)
 Spookly is my main project right now. We're building an engaging Minecraft server network with custom game modes and an amazing community. You can explore our latest updates on the [Spookly GitHub](https://github.com/Spookly-Network).
