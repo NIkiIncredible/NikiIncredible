@@ -8,7 +8,7 @@ I'm currently focused on developing an engaging Minecraft server network at [Spo
 ## 🚀 My Projects
 ### [VeloxERP]()
 Trying to build a open source erp system. WIP
-(https://github.com/VeloxERP).
+[VeloxERP](https://github.com/VeloxERP).
 
 ### [Spookly.net](https://spookly.net)
 Spookly is my main project right now. We're building an engaging Minecraft server network with custom game modes and an amazing community. You can explore our latest updates on the [Spookly GitHub](https://github.com/Spookly-Network).
@@ -24,7 +24,6 @@ I'm currently learning to code Discord bots. It's a fascinating challenge.
 - **Discord**: @pukkel_niklas
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikiIncredible&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikiIncredible&layout=compact&theme=radical)
 
 Feel free to explore my repositories and reach out if you want to chat or collaborate. Thanks for stopping by! 😊
